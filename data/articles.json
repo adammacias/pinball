@@ -1,0 +1,79 @@
+[
+   {
+      "title":"Animation films",
+      "local":"Movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb001.png",
+      "stars":2
+   },
+   {
+      "title":"Animation films",
+      "local":"Movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb002.png",
+      "stars":4
+   },
+   {
+      "title":"Animation films",
+      "local":"Animations",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb003.png",
+      "stars":2
+   },
+   {
+      "title":"Animation films",
+      "local":"3D Animations",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb004.png",
+      "stars":3
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb004.png",
+      "stars":4
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb001.png",
+      "stars":5
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb002.png",
+      "stars":2
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb003.png",
+      "stars":0
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb001.png",
+      "stars":1
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb003.png",
+      "stars":3
+   },
+   {
+      "title":"Animation films",
+      "local":"Kids movies",
+      "excerpt":"Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry.",
+      "cover":"https://s3-sa-east-1.amazonaws.com/doc88/thumb001.png",
+      "stars":1
+   }
+]
